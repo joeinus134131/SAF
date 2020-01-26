@@ -1,5 +1,8 @@
-//uji coba galon 
-// 25 desember 2019
+/*
+*uji coba galon 
+* 25 desember 2019
+* Dibuat Oleh : ScienceofGlory Algorithm Factory
+*/
 
 #include <Keypad.h>
 #include <LiquidCrystal.h>
